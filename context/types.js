@@ -1,0 +1,2 @@
+export const ADD_PLAYER = 'ADD_PLAYER';
+export const REMOVE_PLAYER_BY_INDEX = 'REMOVE_PLAYER_BY_INDEX';
