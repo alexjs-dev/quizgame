@@ -12,6 +12,9 @@ Most of the pages were done in a rush, and are highly unoptimized at the moment 
 - yarn
 - yarn dev
 
-'\
 
 ![](/readme/1.png)
+![](/readme/2.png)
+![](/readme/3.png)
+![](/readme/4.png)
+![](/readme/5.png)
